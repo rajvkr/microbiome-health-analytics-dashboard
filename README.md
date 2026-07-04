@@ -77,5 +77,8 @@ Microbiome sequencing reports contain thousands of microbial records across mult
 ---
 
 ## 📷 Dashboard Preview
+![Microbiome Health Report - Overview](Images/Microbiome%20Health%20Report%20-%20Standardized_Top10_page-0001.jpg)
+
+![Microbiome Health Report - Pathogen & Executive Summary](Images/Microbiome%20Health%20Report%20-%20Standardized_Top10_page-0002.jpg)
 
 > Add dashboard screenshots here.
